@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/AUUGH sound effect.mp3-d3019ee07b559e510462ddbdcadf626a.mp3str"
+
+[deps]
+
+source_file="res://AUUGH sound effect.mp3"
+dest_files=[ "res://.import/AUUGH sound effect.mp3-d3019ee07b559e510462ddbdcadf626a.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
